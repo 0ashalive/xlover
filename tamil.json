@@ -1,0 +1,2126 @@
+{
+    "hero": [
+        {
+            "id": "6ac0ad930d8b57fc701992f2",
+            "title": "Agadha (2026)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc8tGN6w8Gc6yGkELxfUZAYQqYz.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6ac0ad930d8b57fc701992f2",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "6a5e3160a1d12aca48438d01",
+            "title": "Euphoria (2026)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a5e3160a1d12aca48438d01",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "6a42ab7993aed050e8dadb6a",
+            "title": "Maa Inti Bangaram (2026)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a42ab7993aed050e8dadb6a",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "6a42ab3f93aed050e8dadabe",
+            "title": "KD – The Devil (2026)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a42ab3f93aed050e8dadabe",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "6a0c153ef525f8868744002a",
+            "title": "Karuppu (2026)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a0c153ef525f8868744002a",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        }
+    ],
+    "categories": [
+        {
+            "name": "Tamil",
+            "items": [
+                {
+                    "id": "6ac0ad930d8b57fc701992f2",
+                    "title": "Agadha (2026)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc8tGN6w8Gc6yGkELxfUZAYQqYz.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6ac0ad930d8b57fc701992f2",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6a5e3160a1d12aca48438d01",
+                    "title": "Euphoria (2026)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a5e3160a1d12aca48438d01",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6a42ab7993aed050e8dadb6a",
+                    "title": "Maa Inti Bangaram (2026)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a42ab7993aed050e8dadb6a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6a42ab3f93aed050e8dadabe",
+                    "title": "KD – The Devil (2026)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a42ab3f93aed050e8dadabe",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6a0c153ef525f8868744002a",
+                    "title": "Karuppu (2026)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a0c153ef525f8868744002a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6a242c90869a62ab4fefabed",
+                    "title": "Rocky (2021)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/40RJvWXMjXj7csOdZ9FP5Za0Ytm.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a242c90869a62ab4fefabed",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6a1c5e54b4bf84e5c32da019",
+                    "title": "Dacoit (2026)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6a1c5e54b4bf84e5c32da019",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "69076dc0cfc5bfd8748685f3",
+                    "title": "Mass Jathara (2025)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/69076dc0cfc5bfd8748685f3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "68fe1b6df6d29ad2a7e9560d",
+                    "title": "Lucia (2013)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svn981N5s5OUuaBnXwXvteXnhXY.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/68fe1b6df6d29ad2a7e9560d",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6898534c8edb3a5fbbdd4844",
+                    "title": "Jarann (2025)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZkWXHgW8Qk0lMGH1dQbBRzFJAc.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6898534c8edb3a5fbbdd4844",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "686fb4f68edb3a5fbbcaacfd",
+                    "title": "EVOL (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buXclUbb5mcZyug4TXzBrlYLsEP.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/686fb4f68edb3a5fbbcaacfd",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "686fb4f28edb3a5fbbcaacf7",
+                    "title": "Devmanus (2025)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/686fb4f28edb3a5fbbcaacf7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67b22c50ca2856f60cd8afc3",
+                    "title": "MAX (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrkPOgbJpqCRqY0Z8cbltxLGwzl.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67b22c50ca2856f60cd8afc3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67a59493b1851f35bedbcee3",
+                    "title": "Identity (2025)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiFSFpRzs2ue14aVBHKwXPFSCj8.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67a59493b1851f35bedbcee3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6791df45b1851f35bed4a292",
+                    "title": "Swag (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59j909O4PVE7vZxFU0JzuDzLuo7.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6791df45b1851f35bed4a292",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67712576c2027bd809ddf554",
+                    "title": "Sorgavaasal (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9poph8OdbAo2XUy9dJZpZGtOI6W.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67712576c2027bd809ddf554",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6769ab11c2027bd809d991d9",
+                    "title": "Pottel (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0RTkcYbGVbMLkCC5e8kTtGTPvO.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6769ab11c2027bd809d991d9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6769ab04c2027bd809d991c3",
+                    "title": "Nirangal Moondru (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGzSgkWpNIXooUaiXRObhKqdtaN.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6769ab04c2027bd809d991c3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555f45f1df135d5ee5af40",
+                    "title": "Pushpa 2 - The Rule (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/759mIIerY4Njb8uPoj7AIXGSNh3.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555f45f1df135d5ee5af40",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555f371bd06316f74b69ff",
+                    "title": "Demonte Colony 2 (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZmH9hea8fstTK49fplSQS0NWUd.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555f371bd06316f74b69ff",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555f511569602e7020f9c0",
+                    "title": "Golam (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa30QzjokChiDOtuV27cfOSSVOA.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555f511569602e7020f9c0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555e97a9c4f5ebdd1ed731",
+                    "title": "Hot Spot (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIFfv9XVx2LEll9SxHAm8wvn7e.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555e97a9c4f5ebdd1ed731",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555e67a9c4f5ebdd1ed729",
+                    "title": "Criminal or Devil (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555e67a9c4f5ebdd1ed729",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555df81bd06316f74b6971",
+                    "title": "Black (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMx8Msg2OmAb7pgxpmSCAtWJ8a7.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555df81bd06316f74b6971",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67555d421bd06316f74b68aa",
+                    "title": "Boomer Uncle (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oTGnxlMzU1QprZnTybTZqoAQs7.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67555d421bd06316f74b68aa",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535b251bd06316f7493829",
+                    "title": "Krishnamma (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DlAaAJC0hMDWfNJVpFmjCkwhly.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535b251bd06316f7493829",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535dcd1bd06316f749385b",
+                    "title": "Kalinga (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y62MzCi3Auwb1T4aGDPNE2gLyIE.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535dcd1bd06316f749385b",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535aafa8919c414d64b22a",
+                    "title": "Mazhai Pidikatha Manithan (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udYR53s43JCHzqCLqDbIK5rGuGj.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535aafa8919c414d64b22a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535a31a9c4f5ebdd1ca4cc",
+                    "title": "OMG: O Manchi Ghost (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeMhCwSQm5hMOdCPhhJ6afIljDO.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535a31a9c4f5ebdd1ca4cc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "675359801bd06316f74937fb",
+                    "title": "Rathnam (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j35uUmrMgWNQHrs0Obi8ll0OVfe.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/675359801bd06316f74937fb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535927a9c4f5ebdd1ca4b2",
+                    "title": "Satyabhama (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyqaqmSI9NIYoklkWIdwYsY424u.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535927a9c4f5ebdd1ca4b2",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "675358acf1df135d5ee37bf1",
+                    "title": "Siddharth Roy (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRxvMJo1OgYlgphiiuX0dLwYFeV.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/675358acf1df135d5ee37bf1",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535836a8919c414d64b1c8",
+                    "title": "Bagheera (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sx9vGOozrntDzlZnePoHitJakZ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535836a8919c414d64b1c8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "675356e1a8919c414d64b177",
+                    "title": "Double iSmart (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwaitETl1wiQ9kgOMxIuNOawcJP.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/675356e1a8919c414d64b177",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535724a9c4f5ebdd1ca44a",
+                    "title": "Sundaram Master (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8prEWsGNHUrdJ0dTqsVV6DPLJ72.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535724a9c4f5ebdd1ca44a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "675351a4a6f679272b2b4f62",
+                    "title": "Viswam (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoKFsFsh5oeJM7rbFPJRzoEz5jy.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/675351a4a6f679272b2b4f62",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535146a8919c414d64aef8",
+                    "title": "The Birthday Boy (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plm4z0mWkS0bdJxqVaI5SU4nebi.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535146a8919c414d64aef8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67535056f1df135d5ee37898",
+                    "title": "The Greatest of All Time (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5FjbUg5Ei9I1q48ENbo6XoFFZy.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67535056f1df135d5ee37898",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67534f36f1df135d5ee37844",
+                    "title": "Kumbalangi Nights (2019)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ3RvIirE2C7gdBKvPRaoQ3iCo2.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f36f1df135d5ee37844",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67534f341bd06316f7493405",
+                    "title": "Ek Mini Katha (2021)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f341bd06316f7493405",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67534f311569602e701ec085",
+                    "title": "Yatra 2 (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bb2hiXqT322d1vNVuiqJUSf9ayX.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f311569602e701ec085",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "663755c209a76e694fcc2294",
+                    "title": "Aranmanai 4 (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4d4RmvBVtSF8SGgTGAqPZlsOg1.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/663755c209a76e694fcc2294",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "663134cf1fe36083bb9d92f0",
+                    "title": "Avatara Purusha 2 (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNNoxTqBjXJvxiDjC6R3PVH0XoQ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/663134cf1fe36083bb9d92f0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "661ce84561613b76f8593985",
+                    "title": "Ramabanam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/661ce84561613b76f8593985",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "661ce858e91c690e8b9f645e",
+                    "title": "Spark (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEvcGq7AsCJ7oCXVvtATTweE05o.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/661ce858e91c690e8b9f645e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "66179358a043d29247a803e9",
+                    "title": "Chaari 111 (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/66179358a043d29247a803e9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "661186519a1b8e81277c0497",
+                    "title": "Rebel (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FMVnpnm8oUraL9IUQNOABA7nWJ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/661186519a1b8e81277c0497",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65fee2a15aaea4f598db09c8",
+                    "title": "Manjummel Boys (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5HBKH7hNo8EElJTFQPEDwYgXhG.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65fee2a15aaea4f598db09c8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65eff7ac343372abc6ee3721",
+                    "title": "Joe (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRMJ4Jvr5YUXOQlYwxX4Q6H6P71.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65eff7ac343372abc6ee3721",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65e1ef03d41a75da6edf4bd7",
+                    "title": "Eagle (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwyII46YyAitawGoorUjVP4nKY8.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65e1ef03d41a75da6edf4bd7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65aebc3a4f2e676a2427e9b4",
+                    "title": "Naa Saami Ranga (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/707SWcmQlRiwTicJ0EcNhTCDSSS.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65aebc3a4f2e676a2427e9b4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65c7e0c12a28972a0732fbd6",
+                    "title": "Kaatera (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApGI0qCY63sXPVEvqu0etrtKBGS.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65c7e0c12a28972a0732fbd6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65bf33c7cc18b835eb72cdc7",
+                    "title": "Pindam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4BfbmGq4h8oq8u6vZ5teSTlPb3.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65bf33c7cc18b835eb72cdc7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65bf33c12a28972a0731ce41",
+                    "title": "Kaiva (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZMeydbseaFjsVm8UdpqoG5ezyM.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65bf33c12a28972a0731ce41",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65bf33b9ed5458a4490d0fbf",
+                    "title": "Aathmika (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pb76pXxLjEeo2HxyPx94nN3Sp7d.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65bf33b9ed5458a4490d0fbf",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65aeb5e697d269e8898f4543",
+                    "title": "Udal (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwUjrdFpHU8mWdYqZbjc24uHpv.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65aeb5e697d269e8898f4543",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65aad4acc8c2813fc3746b39",
+                    "title": "Salaar: Part 1 – Ceasefire (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Qhmf5OySjG5QUcfVqzqzjpCS2.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65aad4acc8c2813fc3746b39",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65a98dc80feec47a75443ed3",
+                    "title": "Jomonte Suvisheshangal (2017)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGGYarM9KGD61F7Rmdioz6TJOuk.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65a98dc80feec47a75443ed3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65a25bac6ef572ec259a3dc7",
+                    "title": "Ayalaan (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FsGHBfKLAFjZJOAlr5EUpmOEvt.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65a25bac6ef572ec259a3dc7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "659cedeb97d269e8898c28a5",
+                    "title": "A Ranjith Cinema (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSx7nwhbRfQ68JL982uBICGob6Y.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/659cedeb97d269e8898c28a5",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "659ce5a41a62f52f7f2be6ac",
+                    "title": "Conjuring Kannappan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtyWDHQZElXYVETNZ4r8Wb6OZ2U.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/659ce5a41a62f52f7f2be6ac",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6591209be678a1ddb2be4ec4",
+                    "title": "My Name Is Shruthi (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BMDg2YzkwYzctMDYyZi00NTdhLTg5OTQtNGY5NjVhYjUzMzM0XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6591209be678a1ddb2be4ec4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6583eb251c0f314797175ac8",
+                    "title": "Maestro (2021)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Acin0jMdcVOa4gN8HczJqDxnuj.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6583eb251c0f314797175ac8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "658145d4b22d7f8b685f6841",
+                    "title": "Raakshasa Kaavyam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulVKVm5toOrK5APqUD6kD1GSyRb.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/658145d4b22d7f8b685f6841",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "654f206fb4ab4c1beb6c66a8",
+                    "title": "Japan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z8hNvpenAJJrtTFONoytov7zW9.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/654f206fb4ab4c1beb6c66a8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "656f2578b22d7f8b685ba7c4",
+                    "title": "Ahimsa (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPVS5dGVjKV11EKZRwo41iFLhe8.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/656f2578b22d7f8b685ba7c4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "656475a1f611c3842a7f53aa",
+                    "title": "Family Circus (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/11/26/Family-Circus-2023-Gujarati-1080p-HDRip-2.6GB.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/656475a1f611c3842a7f53aa",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65648829f611c3842a7f5b80",
+                    "title": "Richie Gadi Pelli (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZtAopowsr2IXsyxKkcaTcE4vf0.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65648829f611c3842a7f5b80",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6562dc520356926aab98f016",
+                    "title": "Striker (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/11/25/Striker-2023-Tamil-1080p-HDRip-ESub-2.3GB-Download.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6562dc520356926aab98f016",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "655df88485ddeb3a57351b9a",
+                    "title": "Made in Caravan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ux5z0Bl7NrtKpj08YLzJEB4HO3.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/655df88485ddeb3a57351b9a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "655df0aea9cdfdc505369895",
+                    "title": "Aatmapamphlet (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYzZjOTk0OGItZGZmNy00ZGRjLTllY2UtMjBhMTg4ZjM0NTNiXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/655df0aea9cdfdc505369895",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "655b013d52b4d75b59637c5d",
+                    "title": "Samara (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZvlX7ZpsLtBxvgchB9cY3lFG9e.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/655b013d52b4d75b59637c5d",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6556f3682e2ef198c46d7069",
+                    "title": "Tiger Nageswara Rao (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tiYpneYIvXfbaCE0brOoBjXP7v.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6556f3682e2ef198c46d7069",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "655373f956937f94ab68611f",
+                    "title": "Territory (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTL8aFU6XtpRtFNlJUWSjiIcvzr.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/655373f956937f94ab68611f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6540ffd06581d2d90f1772ee",
+                    "title": "Teen Adkun Sitaram (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/10/31/Teen-Adkun-Sitaram-2023-Marathi-1080p-HDRip-ESub-2.6GB.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6540ffd06581d2d90f1772ee",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6540a8a8daa0f0815d8e61fb",
+                    "title": "Are You Ok Baby? (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eLw2weWLeVyWw6s1CVWIlEVlj5.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6540a8a8daa0f0815d8e61fb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "653e4598880f4682f7320750",
+                    "title": "Changure Bangaruraja (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZxx3CXiRlIdqEUiYWnvBYqrSg.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/653e4598880f4682f7320750",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65351fc14b6bb016b3393a1a",
+                    "title": "Boyz 4 (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/10/21/Boyz-4-2023-Marathi-1080p-HQ-S-Print-Download.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65351fc14b6bb016b3393a1a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65351e4ed0496ddbef769976",
+                    "title": "Chidiyan Da Chamba (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj7VoJbfIy42Wtfhz9SmaAm5l7.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65351e4ed0496ddbef769976",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6515715a183a5510baf3199f",
+                    "title": "Chandramukhi 2 (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OT9dFROPL4t53tt3WQ4rl033zC.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6515715a183a5510baf3199f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6527aba5e93d7f61b7341b93",
+                    "title": "Lilli (2018)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HBUrOthPmaVGfvXWJBuw7dS0JA.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6527aba5e93d7f61b7341b93",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "651a6751013cd0dc18abeb9a",
+                    "title": "Let's Get Married (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ppK5AGdLuP3aXpjnBAFLW5ihBS.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/651a6751013cd0dc18abeb9a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65157b45bae0e7d44e904cd7",
+                    "title": "Skanda (2023)",
+                    "poster": "https://assets.gadgets360cdn.com/pricee/assets/product/202307/Skanda_-_The_Attacker_1_1688975978.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65157b45bae0e7d44e904cd7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6514f9e6c5122c63e999f04b",
+                    "title": "Kick (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8s6s8PMGMDHkEPLhHiBLhaEfjFu.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6514f9e6c5122c63e999f04b",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c14f944809aec7ce8d79c6",
+                    "title": "Her Chapter 1 (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BMmNjM2UwMGItMDM0Mi00YjZjLWI1YTYtZGYzYjA3ODIxYTNmXkEyXkFqcGdeQXVyMTU1OTAxMjgx._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c14f944809aec7ce8d79c6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "65033704dd2e7ab5bbcb9ef2",
+                    "title": "Journey of Love 18+ (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xy2tXFmFJL3FTm2VytdjFeEO9jt.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/65033704dd2e7ab5bbcb9ef2",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64fdf60ebb43fc7aafa17eb3",
+                    "title": "7 11 PM (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tw2RZk229TvDBdNVQP51Hr7cpH.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64fdf60ebb43fc7aafa17eb3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64f23ad1de73340f621e34d3",
+                    "title": "Infinity (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jaR4y8fNb3ZvR3OyERufpfmmY8.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64f23ad1de73340f621e34d3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64f23a4df7df6943cd4385ba",
+                    "title": "Project C (Chapter 2) (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhgbWKpWtazCHhORyvxYNPnVHgH.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64f23a4df7df6943cd4385ba",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c3fa6a472a2f067db4405a",
+                    "title": "DD Returns (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aautnOfweBUF74nmwRI2iSf8VdL.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c3fa6a472a2f067db4405a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64f19bca93562f170791541a",
+                    "title": "Ustaad (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9aN0TBnYSKJd3WArSTgKYhtyzI.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64f19bca93562f170791541a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64f198195ffa6142da86aee3",
+                    "title": "Yaadhum Oore Yaavarum Kelir (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8broKyZelH6nKk92ucxMd7Y9M2.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64f198195ffa6142da86aee3",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64f19812549b949a46a3cd88",
+                    "title": "R23 Criminal's Diary (2021)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5chPAxTx2FRIZHbLj1xrhFH1oQN.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64f19812549b949a46a3cd88",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64d4bf31ad5ce85d7f0853f7",
+                    "title": "Jailer (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljQtLWWBTWaVZ4xZz5RR8Mc4f3o.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64d4bf31ad5ce85d7f0853f7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64eb85ec794b1785d4658ee0",
+                    "title": "Toby (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEpICSg7LRqAwwhkfd7VX1w5kjm.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64eb85ec794b1785d4658ee0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64eafdfddb17c6d92d265cbd",
+                    "title": "Subhedar (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYTZhNjQwOWMtY2Q1Ni00OTcyLWExMzQtZGI0NjE0OGQ2NDJkXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64eafdfddb17c6d92d265cbd",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64ea508c794b1785d465518f",
+                    "title": "Gandeevadhari Arjuna (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L61mJC4EOPSKb82CH88mdBZPuk.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64ea508c794b1785d465518f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c3a082472a2f067db42bad",
+                    "title": "BRO (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PY9PUiVUBirsNPMm5HwHz0ee2U.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c3a082472a2f067db42bad",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64e7557e8f1f34d1aec96d17",
+                    "title": "Slum Dog Husband (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmdZzRqg2vrlbc63sMJL5kz8HBk.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64e7557e8f1f34d1aec96d17",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64e75edd0316a8408ee05bd2",
+                    "title": "King of Kotha (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJv2ROkp55GxiCx9AFECZ2Cj2RJ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64e75edd0316a8408ee05bd2",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64e05a30dc8c3a121a376476",
+                    "title": "Kolai (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lblx8zvMF0NxX62aOGocyOhvDld.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64e05a30dc8c3a121a376476",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64e04812d49074f608f11e7b",
+                    "title": "Thalainagaram 2 (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BODIxZDIxM2EtM2YwZi00OGNlLTkzY2ItMDRlMzE4ZjU2MTM5XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64e04812d49074f608f11e7b",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64ddc11feb349690c80202a7",
+                    "title": "O Saathiya (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ce8zbddsejEcJa5s66hukoIrSKn.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64ddc11feb349690c80202a7",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64d9d40c7c4ec45a74691e74",
+                    "title": "Hidimbha (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ywUJDvbvqQkE1pSQYRT9cSaVWs.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64d9d40c7c4ec45a74691e74",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649e8f54e8cbf276d3229e86",
+                    "title": "Adipurush (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpuOeWclbtLU414Txv8ZT6HoZ0k.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649e8f54e8cbf276d3229e86",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c958150e7bb0f93e0778d0",
+                    "title": "Rudrangi (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqls4AP0wQ5x3OjzCfRDUrHVWbd.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c958150e7bb0f93e0778d0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c298b880a11b047ab0bec1",
+                    "title": "Samajavaragamana (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNE51nnaZiRuz0NDXXx1pIUx3hC.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c298b880a11b047ab0bec1",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649de2b7a180c44406ba5498",
+                    "title": "Maamannan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1gbyxJ1nItRHj9Bi17KQdtkNCa.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649de2b7a180c44406ba5498",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c22f499684e3b5779ca3dc",
+                    "title": "Kolla (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXXsyDJKRLxKGdDk6IsJIkDmruj.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c22f499684e3b5779ca3dc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649dcf1a265e79f96874630d",
+                    "title": "Spy (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRzkdR5Rpa615JK9K7ClSqZYZn5.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649dcf1a265e79f96874630d",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c0c7ffe8af5bcca76e748c",
+                    "title": "Phakaat (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/07/26/Phakaat-2023-Marathi-1080p-HDRip-ESub-2.4GB-Download.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c0c7ffe8af5bcca76e748c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64bfa2e8e358e1b71a9fc041",
+                    "title": "Regina (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YMoUoEkUkh60BnxJG04Neg8Hx8.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64bfa2e8e358e1b71a9fc041",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64bbe00ffbb545266109866a",
+                    "title": "Paayum Oli Nee Yenakku (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR07XZNsWmPGFvitMN1zSk7gFbk.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64bbe00ffbb545266109866a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b94282fbb5452661091455",
+                    "title": "Nenu Student Sir! (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCioTenCVELAe8csXyP0XcexQ7Q.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b94282fbb5452661091455",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b932e013162a2e5a76d199",
+                    "title": "Unstoppable (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNDNjOWJkMzUtMzY4ZS00NGNkLWE2MzAtOGRhYmIwOGQ1N2EwXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b932e013162a2e5a76d199",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b8db9910cf9a052871211f",
+                    "title": "Asvins (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dleEIjnnCQXMNiwIyBcd9sTieD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b8db9910cf9a052871211f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b64174c0237c02cc61c867",
+                    "title": "Maryada Ramanna (2010)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdhZF0tSHkdh0GSuyOLQZLS22wm.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b64174c0237c02cc61c867",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b3e87b4f6e3ad0116c4c32",
+                    "title": "Tu Tu Main Main (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/07/15/Tu-Tu-Main-Main-2023-Bhojpuri-1080p-HDRip.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b3e87b4f6e3ad0116c4c32",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b3799a4f6e3ad0116c2402",
+                    "title": "Maaveeran (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w59pbhQRvLXuKNdBaKu51iJzoP.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b3799a4f6e3ad0116c2402",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b1a414512fe19386320130",
+                    "title": "Vil Vithai (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KJCwpOGhnjqZ6OQXngWdYkk5hN.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b1a414512fe19386320130",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64ae82452ba97776b24bbc15",
+                    "title": "Sari (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlMmQ1NjMtNWU5MS00ZjZjLTllZjctMTRjZWQ4Y2FkYjc2XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64ae82452ba97776b24bbc15",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a79c110c8fc4e08e56b2be",
+                    "title": "Katharbasha Endra Muthuramalingam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72ZO0zs9NuEAEsLOMnoPcKnW6sm.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a79c110c8fc4e08e56b2be",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645f2b3bbe777c1922392e35",
+                    "title": "Farhana (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLjgNPF9d78ifCuaY7zb9Xxd9oc.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645f2b3bbe777c1922392e35",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a664ee8b496f587076af2c",
+                    "title": "Chakravyuham (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlD2KQPbZ1Q3BI5jXO2YVRN8r3f.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a664ee8b496f587076af2c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a3a30be8cbf276d324026a",
+                    "title": "Get Together (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/07/03/Get-Together-2023-Marathi-1080p-AMZN-HDRip-ESub-3GB.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a3a30be8cbf276d324026a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a11166265e79f968754f11",
+                    "title": "Sajan Re Jhooth Mat Bolo (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/07/02/Sajan-Re-Jhooth-Mat-Bolo-2023-Bhojpuri-1080p-HDRip-2.8GB.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a11166265e79f968754f11",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649f20d7e8cbf276d322c9d4",
+                    "title": "Mem Famous (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyD8twFBUkkPuqzJBt8EHOh5VNr.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649f20d7e8cbf276d322c9d4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649efd010864265d3de25762",
+                    "title": "Veeran (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iRNyiT0dlRyaMWOBO1Hc6kaOcc.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649efd010864265d3de25762",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64952d1efa44f2127a9efd48",
+                    "title": "Jai Simha (2018)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgv6o5DalFcw1jb8mJQzJ0wzpex.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64952d1efa44f2127a9efd48",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64952b1dfa44f2127a9efcd9",
+                    "title": "Medium Spicy (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAxAbElQyn3iR9ZAfkmYqysADNe.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64952b1dfa44f2127a9efcd9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649345e257c350c10bc0de5e",
+                    "title": "Kondraal Paavam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lA5o8XFUlk1MvtuISjuSfs8bKxD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649345e257c350c10bc0de5e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64905f1086fbb919270e44c6",
+                    "title": "Sanam Mere Humraaz (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/06/19/Sanam-Mere-Humraaz-2023-Bhojpuri-1080p-HDRip-2.3GB.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64905f1086fbb919270e44c6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64684f4e9e2146eb321dab5e",
+                    "title": "Pichaikkaran 2 (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYjFkYzQ2YjgtZjBmNS00NTkzLTkzMTktMjA2YWM5ZGQyZTg5XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64684f4e9e2146eb321dab5e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "649057d4922f798a1e0ddef4",
+                    "title": "Ghe Double (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNzdjMjkwMzYtY2JjZi00MDZiLTg1MjktYzAxNzE0MTdkYmU3XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/649057d4922f798a1e0ddef4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "648ec25386fbb919270e0d09",
+                    "title": "Tamilarasan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxRUqbgkcoNGE21hj060wbP5snZ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/648ec25386fbb919270e0d09",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "648e8db698626fc54f636491",
+                    "title": "Anokhee (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsaLW67IhOBWl5CDKchf7SSxIbE.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/648e8db698626fc54f636491",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64870e3add75851c8cc27e27",
+                    "title": "Char Fera Nu Chakdol (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A0pdrtx0oOV5PCBt3REcoMtUGf.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64870e3add75851c8cc27e27",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64870d2ac9005e1e269db46f",
+                    "title": "Gulaam Chor (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeARp1bOkV0rVmD8Bzn1pdXrljR.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64870d2ac9005e1e269db46f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6487047b62770853556ce442",
+                    "title": "Love Chumbak (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/06/12/Love-Chumbak-2023-Gujarati-1080p-HQ-S-Print.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6487047b62770853556ce442",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "647df9031c5d432d5b4f202d",
+                    "title": "Raaghu (2023)",
+                    "poster": "https://republicnewsindia.com/wp-content/uploads/2022/03/00000.jpeg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/647df9031c5d432d5b4f202d",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "647b030bf488969752165f6e",
+                    "title": "Ugram (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnsJnyCUefcHDQT1OnFgUOSR2nR.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/647b030bf488969752165f6e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644d49a0abe71693c35384af",
+                    "title": "Maharashtra Shahir (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdaBtChX0v8ZIdriMp8HankxJFD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644d49a0abe71693c35384af",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6433c0eec8586dadb00198cc",
+                    "title": "Ghar Banduk Biryani (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9v9cATLaIYlYofnUG3RSM8GqmU3.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6433c0eec8586dadb00198cc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6475f831297f14bc366f4638",
+                    "title": "Sara (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/05/30/Sara-2023-Tamil-HQ-HDRip-1080p-2.5GB.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6475f831297f14bc366f4638",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "647493e75de593d7404eaacf",
+                    "title": "Kadina Kadoramee Andakadaham (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uufbIh7YWJtWx0knLdyEhQ8NBYl.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/647493e75de593d7404eaacf",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64731142aea7e18651669c79",
+                    "title": "Chal Mann Jeetva Jaiye 2 (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJUQgNYTU2tpK9Jt25ClzwHHY6B.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64731142aea7e18651669c79",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64706a0744e17d59432d0ff0",
+                    "title": "Pachuvum Athbhuthavilakkum (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pImw8H3Ae8fMbAZ16z6Wtsf6Qn4.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64706a0744e17d59432d0ff0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "646ee950e95ddedb7542cb18",
+                    "title": "Me Vasantrao (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkCmou1Cj2oVRrSZljSaiRFZISE.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/646ee950e95ddedb7542cb18",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "646aef86e2bd5871f35dc212",
+                    "title": "Vaahlam Jaao Ne (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8JiTUK38L6Fs4mEMhzEqfqvkIy.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/646aef86e2bd5871f35dc212",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "646a1e596ec65e26f2b37b06",
+                    "title": "Bushirt T-shirt (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZWI2MWQ5ZDUtNzNjOS00MTk0LTgzMjktYmVmODlhN2JhMGExXkEyXkFqcGdeQXVyNjk3NzQzMzI@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/646a1e596ec65e26f2b37b06",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6469e1d2377d3c64914d4bbb",
+                    "title": "Virupaksha (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqMn4h9ctOyumII2nXDnm5mRTxQ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6469e1d2377d3c64914d4bbb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6468c1af7e1f14bdcbf85a81",
+                    "title": "Thugs (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/84iKxJcjhXYxEBtsAcv6BC7lfca.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6468c1af7e1f14bdcbf85a81",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64684cda377d3c64914cfabf",
+                    "title": "Maruthi Nagar Police Station (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64684cda377d3c64914cfabf",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "642fffd16585a4de8b66d78b",
+                    "title": "August 16, 1947 (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/35jt6xLxAA5zA2ZlU0kydGrw2VJ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/642fffd16585a4de8b66d78b",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64650882be194c08408a7aed",
+                    "title": "Enthada Saji (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArhKXIPdOnbYimBklqoOGpmBRYD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64650882be194c08408a7aed",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64633aa770fb43d033b4dea9",
+                    "title": "Mithra (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/05/16/Mithra-2023-Malayalam-1080p-HDRip-2GB.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64633aa770fb43d033b4dea9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64623427a44b9d3a075fbf83",
+                    "title": "O Kala (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sKoW0iOpYX3FVnJPG0ZH45kv7W.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64623427a44b9d3a075fbf83",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64622a97be777c192239b0dd",
+                    "title": "Dear Vaappi (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twsl02wJheTJ9YQW1q5O8MWD4fa.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64622a97be777c192239b0dd",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6460732fbe777c19223963c6",
+                    "title": "Organic Mama Hybrid Alludu (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xU6xN6s8zQIHoAcnzl9b0KC9W1Y.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6460732fbe777c19223963c6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645f2b5028ab50b53594de84",
+                    "title": "Thiruvin Kural (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4CZ3AKQlIsd0CJuI7QF9dOatUk.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645f2b5028ab50b53594de84",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645f2b31be777c1922392e2c",
+                    "title": "Custody (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E9TjPijGlsd1nkdzEhJkxDoPHR.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645f2b31be777c1922392e2c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645f2b464081f84cb108c6bf",
+                    "title": "Good Night (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFTO0tCTxXazstWfhOQHPb3kcMT.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645f2b464081f84cb108c6bf",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645d4fb5572d1575774949f9",
+                    "title": "Yaathisai (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFczmRIOQqsxgcihXxpPZYWMKog.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645d4fb5572d1575774949f9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645b7f7228ab50b53594467e",
+                    "title": "Vichitram (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYWYxMWI5NmEtMjhlYy00NjE3LWJkMDQtNjNjZjcxMDg0YTVlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645b7f7228ab50b53594467e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645b76b7a44b9d3a075ea097",
+                    "title": "CSI Sanatan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645b76b7a44b9d3a075ea097",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645b250e4081f84cb107ffc6",
+                    "title": "BhauBali (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/05/09/BhauBali-2022-Marathi-1080p-HDRip-2GB-ESub.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645b250e4081f84cb107ffc6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645562e3d7a53b550d208e60",
+                    "title": "Kulasami (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNHofVvUfdzVEkTCWodt87x5VlD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645562e3d7a53b550d208e60",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64554298f24a2eacea5ed8d1",
+                    "title": "Phalana Abbayi Phalana Ammayi (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64554298f24a2eacea5ed8d1",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "645489a1e3b4ca0d36ba5ef0",
+                    "title": "Meter (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ov4b83BVRVVikifEhSYlAB80vp.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/645489a1e3b4ca0d36ba5ef0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6452c10a1a49e24995597f1f",
+                    "title": "Asalu (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQbioATFWMy47dDRkqNCkoXGHiy.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6452c10a1a49e24995597f1f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6452c0ff981335f2bdc6fa95",
+                    "title": "I Love You Idiot (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovEvgIDNv5X5YbZZOcIiFnlWZBZ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6452c0ff981335f2bdc6fa95",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644e00a4eaba649d6c397c8e",
+                    "title": "Phulrani (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644e00a4eaba649d6c397c8e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644df03beaba649d6c3977c8",
+                    "title": "Shubh Yatra (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/04/29/Shubh-Yatra-2023-Gujarati-1080p-HQ-S-Print-2.7GB.png",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644df03beaba649d6c3977c8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644c072d33ebe6a6124f6c1f",
+                    "title": "Agent (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTC4LQ7KYRoX5J7hLZ08lDRPWvX.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644c072d33ebe6a6124f6c1f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644b6a7311728d427fe7d80c",
+                    "title": "Rudhran (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfEeXyXLs6tUlF7FoaGWfcR4zGZ.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644b6a7311728d427fe7d80c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64327c20cdcd25bc7364e24f",
+                    "title": "Ravanasura (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8qMT1QtkHy2yiSpj2FCEMV0Tw.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64327c20cdcd25bc7364e24f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644ad67a72c13015425031d6",
+                    "title": "Viduthalai: Part I (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644ad67a72c13015425031d6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644acab16d608f4a9631755c",
+                    "title": "Pakalum Paathiravum (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/siuB01WPTW7f8Vb3TAd32QP8hHO.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644acab16d608f4a9631755c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644ac8c66d608f4a9631730c",
+                    "title": "Thuramukham (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ2lPXyAwm0c5Sre9xyvnTPEt0Z.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644ac8c66d608f4a9631730c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644a28876d608f4a9631310e",
+                    "title": "Gurudev Hoysala (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHRuNHt0t2yd5wyc95Uc7dSnnOY.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644a28876d608f4a9631310e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644a26e76d608f4a96313097",
+                    "title": "Pathu Thala (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0t36qEw53A8U1CI5tAcCsUeq0H.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644a26e76d608f4a96313097",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64498d6672c13015424fd965",
+                    "title": "Dasara (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzhNxKy20k3MiGKWLApuegbAcRD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64498d6672c13015424fd965",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64496a496d608f4a96311371",
+                    "title": "Aivar (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dGyYiD66VHCiNkNCbYvXZbILbM.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64496a496d608f4a96311371",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644215205b994262d68ebbcc",
+                    "title": "Premadesam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFcoVRBPWjh52RKBYTQoDFmNh5q.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644215205b994262d68ebbcc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644219d35b994262d68ebc0a",
+                    "title": "Mr. King (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hcuXysMgXrfAGrod67s6hBL5eR.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644219d35b994262d68ebc0a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64420d8ea5f0bcee9039b3cf",
+                    "title": "Ranga Maarthaanda (2023)",
+                    "poster": "https://www.filmibeat.com/img/popcorn/movie_posters/ranga-maarthaanda-20230320193719-19005.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64420d8ea5f0bcee9039b3cf",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64420a54a5f0bcee9039b35c",
+                    "title": "Poovan (2023)",
+                    "poster": "https://mymoviebazar.net/api/upload 1/others/images/gallery/1682049945698.9993.MV5BMDdlODg4MzAtMGExNS00N2ZiLWExNzUtZDQxMmI2MzhkMzE5XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64420a54a5f0bcee9039b35c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "643a5598d34fe2889de5c46c",
+                    "title": "Ghosty (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJiO7xvjEwjTRsFQ26lutwHxJPU.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/643a5598d34fe2889de5c46c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "643903649a02cefb1f3a2da8",
+                    "title": "Das Ka Dhamki (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jiEtPhwG8YSGnzIX27IzqKDR2y.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/643903649a02cefb1f3a2da8",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64390327c7eae847023441dc",
+                    "title": "Kannai Nambathe (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqgp5gNXYDuwM0GEz8617Rh08K.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64390327c7eae847023441dc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6437c3062ad138986da30bcb",
+                    "title": "N4 (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lptPcvmtiE1XriB421EWIjeCrio.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6437c3062ad138986da30bcb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6431d9e471aec12b53ba9c12",
+                    "title": "D3 (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NWJcndZFjcXo7WuqNtqM3ahZuq.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6431d9e471aec12b53ba9c12",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "642fdf3df27a6da32e198067",
+                    "title": "Rangamarthanda (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/75hXBoN1iqyPxIsJRFIEkPdbvgB.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/642fdf3df27a6da32e198067",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "642fb81e9bf62c41eeb6635a",
+                    "title": "Maheshum Marutiyum (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbEWIOEdVwd5cmwlmxRb4MsWJt.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/642fb81e9bf62c41eeb6635a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "642fb48bd6588189d52fc72c",
+                    "title": "Kabzaa (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7XnsJy6E9W5GiTu17cSRYyAK9A.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/642fb48bd6588189d52fc72c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "642f3d560d1bceebdb0fdaa0",
+                    "title": "Burqa (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRsIM440rBaCxPvoFaZGDA9sBxs.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/642f3d560d1bceebdb0fdaa0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "642c0704b1f66f8defd02100",
+                    "title": "Memories (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyeiTD4mkQrqtApb5FvcwYgUbHK.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/642c0704b1f66f8defd02100",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64289c82f3b9a9cc1b24ee58",
+                    "title": "Pallu Padama Paathuka (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyx3ymd2pPc30ud6BZCyVf76TgD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64289c82f3b9a9cc1b24ee58",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "641e95e1c937cd281e78c3af",
+                    "title": "Aagantuk (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlwKaB8hGemaHLsUWpZCPnECpLi.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/641e95e1c937cd281e78c3af",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "641cc279a7b9504fc5932928",
+                    "title": "Oh Meri Laila (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvnLal8YfGAniTeACFOVDyrdopb.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/641cc279a7b9504fc5932928",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "641b4ff73278afa56324829a",
+                    "title": "Vinaro Bhagyamu Vishnu Katha (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ5NDI1Y2QtYzY5Mi00ODU5LWFjNzAtYWNhZTk0NjdjNTk5XkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/641b4ff73278afa56324829a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "641576d3b75730ff18d573d1",
+                    "title": "Masooda (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKAxNrvVN7lTGF3EJsN1Q7CihNd.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/641576d3b75730ff18d573d1",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "641406a7b75730ff18d52340",
+                    "title": "Once Upon a Time in Jamaligudda (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF80b69sBrL5L7TB0ExBaLeMnOn.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/641406a7b75730ff18d52340",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6411cff710fb97e83cce6dfc",
+                    "title": "Mayagadu (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeKRSyiiU7wXUf5NNOU7VrQ0x68.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6411cff710fb97e83cce6dfc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640ff94b2009f50dbada6850",
+                    "title": "Sasanasabha (2023)",
+                    "poster": "https://fs1.extraimage.org/picupto/2023/03/14/Sasanasabha-2023-Telugu-1080p-HDRip-ESub-2.8GB.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640ff94b2009f50dbada6850",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640f14acff28a8c77afc9e7e",
+                    "title": "Love Birds (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WXhBjQ39zh8hrar9oHShzQ0YoO.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640f14acff28a8c77afc9e7e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640f115f2009f50dbada3991",
+                    "title": "Thalaikoothal (2023)",
+                    "poster": "https://moviesda3.co/uploads/posters/thalaikoothal-2023.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640f115f2009f50dbada3991",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640ef02655a71bf6530f3be1",
+                    "title": "Laththi Charge (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVtD1kDMTgr00vNL4V2TNuotHyI.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640ef02655a71bf6530f3be1",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640aea83b75730ff18d307d4",
+                    "title": "Rekha (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPDekC6fnKGUlR3kmhDvjgCCiVb.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640aea83b75730ff18d307d4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640adfc2b75730ff18d305bb",
+                    "title": "Raymo (2022)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BODY3ODZjMDYtMTFiZS00YTMwLWE3ZmEtYzQxNWU1OTllMmFmXkEyXkFqcGdeQXVyMTMxNzQwMDY2._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640adfc2b75730ff18d305bb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640a3189ff28a8c77afb82c6",
+                    "title": "Bommai Nayagi (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7hQyVcZR1qFlw7vUSO2ltwDGL.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640a3189ff28a8c77afb82c6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640a2e80b75730ff18d2e0f9",
+                    "title": "Christy (2023)",
+                    "poster": "https://core.crazyhd.com/torrentimg/530f1290a01f0d8b092de1cee7030c89c65ac3f8.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640a2e80b75730ff18d2e0f9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6409dd91cba06f35edaef2ea",
+                    "title": "Varayan (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmQrKxfQaWBAlxqapOasLHuy4oE.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6409dd91cba06f35edaef2ea",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6409de7f2009f50dbad90122",
+                    "title": "Kannitheevu (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Lzy5T5J4jGMF8VWCPviWdm6h1I.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6409de7f2009f50dbad90122",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6408e7e4cba06f35edaeb007",
+                    "title": "Christopher (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN2bHdWTaLRS7rpcmlv8bZ6PQ5N.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6408e7e4cba06f35edaeb007",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6408237955a71bf6530d82d9",
+                    "title": "Iratta (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ittBLkDQ0e605gHBpl73sFmRsmd.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6408237955a71bf6530d82d9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64075588c048ddb166291c28",
+                    "title": "181 (2022)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZTE1ODVhYmUtYjBlYi00ZmE3LTk0MjktYzAyYjQxNzBkZmFiXkEyXkFqcGdeQXVyMzMxMDUzNTk@._V1_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64075588c048ddb166291c28",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6406c0ed79326a3527b2a3a5",
+                    "title": "Hoon Tari Heer (2022)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNTk5ZmVjZDktMjVmNC00OTM5LThhYjMtNWQwY2Q0MjIzNmUzXkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6406c0ed79326a3527b2a3a5",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6404f23e835db2857a60ef3a",
+                    "title": "Nayika Devi: The Warrior Queen (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ytq2FeanCw4JdS8fFDNysUszVo.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6404f23e835db2857a60ef3a",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640484b2c048ddb1662858f0",
+                    "title": "Satarcha Salman (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCTtIHBX3nSBrQdqZcbWdhBxWL.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640484b2c048ddb1662858f0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64047fca1152a230f8879cf6",
+                    "title": "Hello (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNDRiYTY3MTItYjhjZC00NTNjLTg4NDUtZTNjZmQyZDg5ZWI0XkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64047fca1152a230f8879cf6",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640369eeed0df8173748b18e",
+                    "title": "Plan B (2021)",
+                    "poster": "https://core.crazyhd.com/torrentimg/a97646e07b6c163957730c845399d8fb48dafc5b.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640369eeed0df8173748b18e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6402e49aa261d50951d95e42",
+                    "title": "Raundal (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BYjc0YzNiOTctN2M2My00MzFmLWE1N2UtMzQzMDM2NDk1MjgzXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6402e49aa261d50951d95e42",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640347a5a261d50951d973d5",
+                    "title": "Vasantha Kokila (2023)",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZjA5NTdlMWEtZjFiZi00NGU5LTkwMDAtYjI4OTQ3YzhkM2NhXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640347a5a261d50951d973d5",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64033ef2ed0df8173748a280",
+                    "title": "Bagheera (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FF2llKrJYAH7RQ4EAJ8XBjwl9P.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64033ef2ed0df8173748a280",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64033d849e15ab3dd9757f55",
+                    "title": "Butta Bomma (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BkOzXTTwSO11AMTp9dO3tuLXOd.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64033d849e15ab3dd9757f55",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6400642df2bdc13a27c2f081",
+                    "title": "Victoria : Ek Rahasya (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SxcwD8mXRRyvwn4MMBZsPhQs7X.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6400642df2bdc13a27c2f081",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "63f87b207020dc398cf6f827",
+                    "title": "Hun Iqbal (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bYxTszrasq4NtLMtXQwVDhIZmN.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/63f87b207020dc398cf6f827",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "63f86dbab39ced45ac356dbd",
+                    "title": "Michael (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HChuuIpOungXAtotqVfhCBZUBK.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/63f86dbab39ced45ac356dbd",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "63f37e27febc0b5c53cf122d",
+                    "title": "Thankam (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB4VhlVcJGxBTHtSgFaCJdFrmxL.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/63f37e27febc0b5c53cf122d",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                }
+            ]
+        }
+    ]
+}
