@@ -1,0 +1,344 @@
+{
+    "hero": [
+        {
+            "id": "675357def1df135d5ee37bb9",
+            "title": "Troll Factory (2024)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBjmF7nibYL4xoFdKj6P73Syni6.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/675357def1df135d5ee37bb9",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "67534f3ba8919c414d64ae5c",
+            "title": "The Man from Nowhere (2010)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld19CFIo27t41JXSGZdaPMUGTxh.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f3ba8919c414d64ae5c",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "67534f39a6f679272b2b4e85",
+            "title": "Devil in the Lake (2022)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPZVTYQfaoj4Hg0I44k688ovVz.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f39a6f679272b2b4e85",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "661a8344838ed4d8c8d89199",
+            "title": "#Alive (2020)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqf711LsnQ5CcW3rISFw2t7OYzb.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/661a8344838ed4d8c8d89199",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        },
+        {
+            "id": "654993a339ba69362f73f33b",
+            "title": "Death Bell 2 (2010)",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E3XPxhorO0sLIa0jeX3zDD3PXI.jpg",
+            "stream_url": "https://m.mymoviebazar.net/api/movies/watch/654993a339ba69362f73f33b",
+            "headers": {
+                "Referer": "https://m.mymoviebazar.net/"
+            }
+        }
+    ],
+    "categories": [
+        {
+            "name": "Korian",
+            "items": [
+                {
+                    "id": "675357def1df135d5ee37bb9",
+                    "title": "Troll Factory (2024)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBjmF7nibYL4xoFdKj6P73Syni6.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/675357def1df135d5ee37bb9",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67534f3ba8919c414d64ae5c",
+                    "title": "The Man from Nowhere (2010)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld19CFIo27t41JXSGZdaPMUGTxh.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f3ba8919c414d64ae5c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "67534f39a6f679272b2b4e85",
+                    "title": "Devil in the Lake (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPZVTYQfaoj4Hg0I44k688ovVz.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/67534f39a6f679272b2b4e85",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "661a8344838ed4d8c8d89199",
+                    "title": "#Alive (2020)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqf711LsnQ5CcW3rISFw2t7OYzb.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/661a8344838ed4d8c8d89199",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "654993a339ba69362f73f33b",
+                    "title": "Death Bell 2 (2010)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E3XPxhorO0sLIa0jeX3zDD3PXI.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/654993a339ba69362f73f33b",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64d8a45c7c4ec45a7468f33e",
+                    "title": "Love in Taipei (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64d8a45c7c4ec45a7468f33e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64ce70a7a69de65519ff96bf",
+                    "title": "Live Stream (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MxDgLms2wDEuBEfKT5kgA9ss3w.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64ce70a7a69de65519ff96bf",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64cd4607091605158706b6a4",
+                    "title": "Zom 100: Bucket List of the Dead (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64cd4607091605158706b6a4",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64c7ede9a69de65519fe2b4b",
+                    "title": "Babaylan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KtV2ZIUq4LCCNvdfnOsnM4t49L.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64c7ede9a69de65519fe2b4b",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64b3ab7ab7b302e0569be8eb",
+                    "title": "The Recon (2021)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWnt8JyG1FPfMtSEzjg8kAqGBJd.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64b3ab7ab7b302e0569be8eb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a7c8dc8b496f587076eb5c",
+                    "title": "Siphayo (2016)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeIwmtYOuENAztnhZz7zeiky1pc.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a7c8dc8b496f587076eb5c",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a7c8e15e64766791f2c059",
+                    "title": "Unstoppable (2018)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/csle64zkLObsdRoabreC6bBRxLI.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a7c8e15e64766791f2c059",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64a3e919815ae74983647653",
+                    "title": "The Roundup: No Way Out (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ZzelrldWr7CmOTSiwagoe5Vl9.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64a3e919815ae74983647653",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64861ba6c9005e1e269d9750",
+                    "title": "The Mimic (2017)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWseLt8PzOgMMzE3Jnoz2PN11NP.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64861ba6c9005e1e269d9750",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "646866869e2146eb321db051",
+                    "title": "Ang Mga Kaibigan ni Mama Susan (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYUuEQ6a2kGsjeJVnwLEMGF87b5.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/646866869e2146eb321db051",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6463a28b39777ad77a547ab0",
+                    "title": "Lee Pa-Ni's Secret Voyeur Club (2016)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oup7S0B7ZeJCx6rmMnjruYIRsJh.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6463a28b39777ad77a547ab0",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6460922abe777c1922396644",
+                    "title": "Hear Me (2009)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPcLsdNN2VgsUmlsTLl7IdYqQhu.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6460922abe777c1922396644",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "644a175072c13015424fe59f",
+                    "title": "Peninsula (2020)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/644a175072c13015424fe59f",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "643fc1e66cb06fdf31c85a9e",
+                    "title": "Nothing Like Paris (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7PbTy8RmDLJhJjVp6bxlftTNKC.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/643fc1e66cb06fdf31c85a9e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6435081e1344f1f2fecc5e52",
+                    "title": "JUNG_E (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6435081e1344f1f2fecc5e52",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64272607d75d74af925f07eb",
+                    "title": "Kill Boksoon (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QKkvGgwMCvYrdkyNFgxfLESBtx.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64272607d75d74af925f07eb",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6416fef1b68a09ad4741a9ce",
+                    "title": "Chunhyang (2000)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFrFFk33vPVYdR4VHFqqXQYabK1.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6416fef1b68a09ad4741a9ce",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6412adaacba06f35edb10267",
+                    "title": "Love Impossible (2003)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVry8xj0b0RGeQx45wgoZrJfn9i.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6412adaacba06f35edb10267",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "64121e3a10fb97e83cce8737",
+                    "title": "Decibel (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN4DJn9f5ytbj1IDy3LIWR8O5L.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/64121e3a10fb97e83cce8737",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "641182472009f50dbadad0aa",
+                    "title": "On the Line (2021)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAgLm2YXhps0UOt90CJYeKbPydM.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/641182472009f50dbadad0aa",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6411829ccba06f35edb0bf3e",
+                    "title": "Forgotten (2017)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6411829ccba06f35edb0bf3e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640f6dd82009f50dbada55f2",
+                    "title": "Silenced (2011)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640f6dd82009f50dbada55f2",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "6410066155a71bf6530f73fc",
+                    "title": "Autumn Sonata (2017)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6EbOFhn8cSRIFAULft3HBIC739.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/6410066155a71bf6530f73fc",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640f6b11b75730ff18d4164e",
+                    "title": "Shoot Me in the Heart (2015)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEva7iEzhKUvljLATELn4dc9vZA.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640f6b11b75730ff18d4164e",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "640f6b672009f50dbada5554",
+                    "title": "Real (2017)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccmDZaOKBwDKW8wPs4rV64ue9wN.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/640f6b672009f50dbada5554",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "63ff97f39e15ab3dd974b88d",
+                    "title": "Café Midnight (2022)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG8r9CdFLKMb9A5gn0YXfQ2AVBD.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/63ff97f39e15ab3dd974b88d",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                },
+                {
+                    "id": "63f85c4fa5531b8f1c8a8f14",
+                    "title": "The Point Men (2023)",
+                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaVQoBuICpRq4i5Ke4Jm2ZngvxF.jpg",
+                    "stream_url": "https://m.mymoviebazar.net/api/movies/watch/63f85c4fa5531b8f1c8a8f14",
+                    "headers": {
+                        "Referer": "https://m.mymoviebazar.net/"
+                    }
+                }
+            ]
+        }
+    ]
+}
